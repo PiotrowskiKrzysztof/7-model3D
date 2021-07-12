@@ -1,0 +1,28 @@
+C:\Users\Krzysztof\source\repos\animacja 3d\animacja 3d\obj\Debug\animacja 3d.csprojAssemblyReference.cache
+C:\Users\Krzysztof\source\repos\animacja 3d\animacja 3d\obj\Debug\App.g.cs
+C:\Users\Krzysztof\source\repos\animacja 3d\animacja 3d\obj\Debug\animacja 3d_MarkupCompile.cache
+C:\Users\Krzysztof\source\repos\animacja 3d\animacja 3d\bin\Debug\animacja 3d.exe.config
+C:\Users\Krzysztof\source\repos\animacja 3d\animacja 3d\bin\Debug\animacja 3d.exe
+C:\Users\Krzysztof\source\repos\animacja 3d\animacja 3d\bin\Debug\animacja 3d.pdb
+C:\Users\Krzysztof\source\repos\animacja 3d\animacja 3d\obj\Debug\MainWindow.g.cs
+C:\Users\Krzysztof\source\repos\animacja 3d\animacja 3d\obj\Debug\animacja 3d_MarkupCompile.lref
+C:\Users\Krzysztof\source\repos\animacja 3d\animacja 3d\obj\Debug\MainWindow.baml
+C:\Users\Krzysztof\source\repos\animacja 3d\animacja 3d\obj\Debug\animacja 3d.g.resources
+C:\Users\Krzysztof\source\repos\animacja 3d\animacja 3d\obj\Debug\animacja_3d.Properties.Resources.resources
+C:\Users\Krzysztof\source\repos\animacja 3d\animacja 3d\obj\Debug\animacja 3d.csproj.GenerateResource.cache
+C:\Users\Krzysztof\source\repos\animacja 3d\animacja 3d\obj\Debug\animacja 3d.exe
+C:\Users\Krzysztof\source\repos\animacja 3d\animacja 3d\obj\Debug\animacja 3d.pdb
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\7_animacja 3d\animacja 3d\bin\Debug\animacja 3d.exe.config
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\7_animacja 3d\animacja 3d\bin\Debug\animacja 3d.exe
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\7_animacja 3d\animacja 3d\bin\Debug\animacja 3d.pdb
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\7_animacja 3d\animacja 3d\obj\Debug\animacja 3d.csprojAssemblyReference.cache
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\7_animacja 3d\animacja 3d\obj\Debug\MainWindow.g.cs
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\7_animacja 3d\animacja 3d\obj\Debug\App.g.cs
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\7_animacja 3d\animacja 3d\obj\Debug\animacja 3d_MarkupCompile.cache
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\7_animacja 3d\animacja 3d\obj\Debug\animacja 3d_MarkupCompile.lref
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\7_animacja 3d\animacja 3d\obj\Debug\MainWindow.baml
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\7_animacja 3d\animacja 3d\obj\Debug\animacja 3d.g.resources
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\7_animacja 3d\animacja 3d\obj\Debug\animacja_3d.Properties.Resources.resources
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\7_animacja 3d\animacja 3d\obj\Debug\animacja 3d.csproj.GenerateResource.cache
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\7_animacja 3d\animacja 3d\obj\Debug\animacja 3d.exe
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\7_animacja 3d\animacja 3d\obj\Debug\animacja 3d.pdb
